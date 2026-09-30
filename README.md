@@ -1,8 +1,6 @@
 ## Hi, I'm Zeinab Bagheri Fard 👋
 
-HCI and XR researcher (M.Sc., Stockholm University). I build interactive and AI-integrated systems in Unity and Python, and run user studies to understand how people use them.
-
-My projects are spread over two GitHub accounts: this one (**ZeinabBF**) and **[ZeinabBagherifard](https://github.com/ZeinabBagherifard)**. All of them are listed below.
+I'm an HCI and XR researcher with an M.Sc. from Stockholm University. I'm interested in building interactive and AI-integrated systems in Unity and Python, and in studying how people understand, use and respond to them through user studies.
 
 🔗 [Portfolio](https://zeinabbagherifard.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/zeinab-bagherifard-b6458b272/) · [Google Scholar](https://scholar.google.com/citations?user=4dLwXiUAAAAJ&hl=en)
 
@@ -18,7 +16,7 @@ My projects are spread over two GitHub accounts: this one (**ZeinabBF**) and **[
 | [Student Performance Analysis](https://github.com/ZeinabBagherifard/Student-Performance-Analysis) | Predicting student pass/fail with Logistic Regression and Random Forest | pandas, scikit-learn |
 | [Flower Classifier](https://github.com/ZeinabBagherifard/FlowerClassifier) | Iris flower classification with Random Forest | scikit-learn, matplotlib |
 
-### 🥽 XR & HCI Research
+### 🥽 XR & HCI Projects
 
 | Project | What it is | Tools |
 |---|---|---|
@@ -26,6 +24,7 @@ My projects are spread over two GitHub accounts: this one (**ZeinabBF**) and **[
 | [VR Steering Interaction Study](https://github.com/ZeinabBF/VR-Steering-Interaction-Study) | User study comparing three gesture-based steering methods for remote driving | Unity, Meta Quest 3 |
 | [TwinTurbine](https://github.com/ZeinabBF/TwinTurbine) | Mixed-reality digital twin of a physical wind turbine with live data | Unity, Meta Spatial Anchors |
 | [Soul Sphere](https://github.com/ZeinabBF/DET-SoulSphere) | MR experience connected to a wearable device with visual, audio and haptic feedback | Unity, ESP32, hand tracking |
+| [Bedroom](https://github.com/ZeinabBF/AssignmentBedroom) | 3D bedroom environment built in Unity (course assignment) | Unity, C# |
 
 ### 📊 Data Analysis & Dashboards
 
