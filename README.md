@@ -1,6 +1,6 @@
 ## Hi, I'm Zeinab Bagheri Fard 👋
 
-I'm an HCI and XR researcher with an M.Sc. from Stockholm University. I'm interested in building interactive and AI-integrated systems in Unity and Python, and in studying how people understand, use and respond to them through user studies.
+I am an HCI and XR researcher with an M.Sc. from Stockholm University. I am interested in building interactive and AI-integrated systems in Unity and Python, and in understanding how people interact with and experience them through empirical user studies.
 
 🔗 [Portfolio](https://zeinabbagherifard.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/zeinab-bagherifard-b6458b272/) · [Google Scholar](https://scholar.google.com/citations?user=4dLwXiUAAAAJ&hl=en)
 
